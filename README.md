@@ -1,4 +1,4 @@
-# demo-repo
-this is a sample Demo for GitHub Repositories
+# Demo-Repo
+This is a sample Demo for GitHub Repositories
 <br>
-sample
+Sample
